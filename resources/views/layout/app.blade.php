@@ -15,9 +15,9 @@
     <!-- Place favicon.ico in the root directory -->
     <link href="{{ asset('assets/images/coplogo64.png') }}" rel="shortcut icon">
 
-    <!-- @vite(['resources/css/app.css',
+    @vite(['resources/css/app.css',
             'resources/js/app.js'
-         ]) -->
+         ])
     
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/swiper.min.css') }}">
